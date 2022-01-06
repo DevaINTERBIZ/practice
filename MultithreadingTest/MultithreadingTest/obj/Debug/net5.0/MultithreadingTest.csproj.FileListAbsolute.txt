@@ -1,0 +1,16 @@
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\bin\Debug\net5.0\MultithreadingTest.exe
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\bin\Debug\net5.0\MultithreadingTest.deps.json
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\bin\Debug\net5.0\MultithreadingTest.runtimeconfig.json
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\bin\Debug\net5.0\MultithreadingTest.runtimeconfig.dev.json
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\bin\Debug\net5.0\MultithreadingTest.dll
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\bin\Debug\net5.0\ref\MultithreadingTest.dll
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\bin\Debug\net5.0\MultithreadingTest.pdb
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\obj\Debug\net5.0\MultithreadingTest.csproj.AssemblyReference.cache
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\obj\Debug\net5.0\MultithreadingTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\obj\Debug\net5.0\MultithreadingTest.AssemblyInfoInputs.cache
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\obj\Debug\net5.0\MultithreadingTest.AssemblyInfo.cs
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\obj\Debug\net5.0\MultithreadingTest.csproj.CoreCompileInputs.cache
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\obj\Debug\net5.0\MultithreadingTest.dll
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\obj\Debug\net5.0\ref\MultithreadingTest.dll
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\obj\Debug\net5.0\MultithreadingTest.pdb
+G:\Interbiz_C#\MultithreadingTest\MultithreadingTest\obj\Debug\net5.0\MultithreadingTest.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\bin\Debug\net5.0\MultipleInheritance.exe
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\bin\Debug\net5.0\MultipleInheritance.deps.json
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\bin\Debug\net5.0\MultipleInheritance.runtimeconfig.json
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\bin\Debug\net5.0\MultipleInheritance.runtimeconfig.dev.json
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\bin\Debug\net5.0\MultipleInheritance.dll
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\bin\Debug\net5.0\ref\MultipleInheritance.dll
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\bin\Debug\net5.0\MultipleInheritance.pdb
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\obj\Debug\net5.0\MultipleInheritance.csproj.AssemblyReference.cache
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\obj\Debug\net5.0\MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\obj\Debug\net5.0\MultipleInheritance.AssemblyInfoInputs.cache
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\obj\Debug\net5.0\MultipleInheritance.AssemblyInfo.cs
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\obj\Debug\net5.0\MultipleInheritance.csproj.CoreCompileInputs.cache
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\obj\Debug\net5.0\MultipleInheritance.dll
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\obj\Debug\net5.0\ref\MultipleInheritance.dll
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\obj\Debug\net5.0\MultipleInheritance.pdb
+G:\Interbiz_C#\MultipleInheritance\MultipleInheritance\obj\Debug\net5.0\MultipleInheritance.genruntimeconfig.cache

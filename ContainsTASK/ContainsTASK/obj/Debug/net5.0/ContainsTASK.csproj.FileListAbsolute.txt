@@ -1,0 +1,16 @@
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\bin\Debug\net5.0\ContainsTASK.exe
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\bin\Debug\net5.0\ContainsTASK.deps.json
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\bin\Debug\net5.0\ContainsTASK.runtimeconfig.json
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\bin\Debug\net5.0\ContainsTASK.runtimeconfig.dev.json
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\bin\Debug\net5.0\ContainsTASK.dll
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\bin\Debug\net5.0\ref\ContainsTASK.dll
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\bin\Debug\net5.0\ContainsTASK.pdb
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\obj\Debug\net5.0\ContainsTASK.csproj.AssemblyReference.cache
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\obj\Debug\net5.0\ContainsTASK.GeneratedMSBuildEditorConfig.editorconfig
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\obj\Debug\net5.0\ContainsTASK.AssemblyInfoInputs.cache
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\obj\Debug\net5.0\ContainsTASK.AssemblyInfo.cs
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\obj\Debug\net5.0\ContainsTASK.csproj.CoreCompileInputs.cache
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\obj\Debug\net5.0\ContainsTASK.dll
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\obj\Debug\net5.0\ref\ContainsTASK.dll
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\obj\Debug\net5.0\ContainsTASK.pdb
+G:\Interbiz_C#\ContainsTASK\ContainsTASK\obj\Debug\net5.0\ContainsTASK.genruntimeconfig.cache
