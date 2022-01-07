@@ -42,5 +42,12 @@ namespace FirstWebApp.Controllers
             return e.FirstOrDefault();
         }
 
+        [Route("api/first/addemployee")]
+        [HttpPost]
+        public IList<Employee> addEmployee(Employee emp) {
+            emplist.Add(emp);
+            return emplist;
+        }
+
     }
 }
